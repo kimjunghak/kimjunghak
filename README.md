@@ -1,5 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=random&height=300&section=header&text=welcome&fontSize=90)
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/kimjunghak)](https://hits.seeyoufarm.com)
 
 <!--
 **kimjunghak/kimjunghak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
